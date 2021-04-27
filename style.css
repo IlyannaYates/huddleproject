@@ -72,7 +72,6 @@ main{
 
 footer{
     float: right;
-
 }
 
 
@@ -152,8 +151,10 @@ footer .fab:hover{
     }
 
     footer{
-    margin-left:27%;
-    padding: 45px;
-  }
+        float: none;
+        text-align: center;  
+        margin-left: 5%;  
+        padding: 45px;  
+    }
 
 }
